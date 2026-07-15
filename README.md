@@ -98,4 +98,5 @@ SELECT * FROM Appointments LIMIT 1;
 ```
 
 ## Output Screenshot
-![Experiment 1 Output](./experiment1.png.png)
+![Experiment 1 Output](<img width="1909" height="876" alt="image" src="https://github.com/user-attachments/assets/18d28520-041f-460b-9467-2b7229e10792" />
+)
